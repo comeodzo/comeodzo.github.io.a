@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    align-content: center;
+}
+h2{
+ color: blue;
+    font-size: 20px;
+    text-align: center;
+    align-content: center;
+}
+h3{
+    color: blue;
+    font-size: 30px;
+}
+body{
+    background-color: white
+}
+#carte{
+    width: 700px;
+    margin: 0 auto;
+    background-color: red;
+    text-align: center;
+    align-content: center;
+}
+img{
+    max-width: 500px;
+    height: auto;
+}
+p{
+    font-size: 20px;
+    color: gold
+}
+li{
+    font-size: 20px;
+    color: burlywood;
+}
+ul li{
+    list-style-type: none;
+}
